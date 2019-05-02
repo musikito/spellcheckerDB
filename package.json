@@ -1,11 +1,22 @@
 {
   "name": "spellcheckerdb",
   "version": "1.0.0",
-  "description": "",
+  "description": "Spell Checker using MongoDB",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "JoseMiguel Marte",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musikito/spellcheckerDB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/musikito/spellcheckerDB/issues"
+  },
+  "homepage": "https://github.com/musikito/spellcheckerDB#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
